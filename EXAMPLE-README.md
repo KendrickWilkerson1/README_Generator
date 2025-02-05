@@ -1,5 +1,5 @@
-# test
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+# README Generator
+  ![License: IPL 1.0](https://img.shields.io/badge/License-IPL_1.0-blue.svg)
 
   ## Table of Content
   * [Description](#decription)
@@ -9,30 +9,30 @@
   * [License](#license)
   * [Features](#features)
   * [Contributions](#contributions)
-  * [Test](#Test)
+  * [Test](#test)
   
   
   ## Description 
-  test
+  Test
 
   ## Installation
-  test
+  TEST
 
   ## Usage
-  test
+  TEST
 
   ## Credits
   undefined
 
   ## License
-  MIT
+  IBM
 
   ## Features
-  test
+  TEST
 
   ## Contributions
-  test
+  TEST
 
   ## Test 
-  test
+  TEST
 
