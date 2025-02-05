@@ -69,7 +69,7 @@ function init() {
   )
   .then((answers) => {
     console.log(generateMarkdown(answers));
-    writeToFile('README.md',generateMarkdown(answers))
+    writeToFile('EXAMPLE-README.md',generateMarkdown(answers))
   })
 }
 
