@@ -1,38 +1,20 @@
-# test
+# README Generator
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Table of Content
   * [Description](#decription)
-  * [Installation](#installation)
   * [Usage](#usage)
-  * [Credits](#credits)
   * [License](#license)
-  * [Features](#features)
-  * [Contributions](#contributions)
-  * [Test](#Test)
   
+
   
   ## Description 
-  test
-
-  ## Installation
-  test
+  This application prompts users for key project details via the terminal, such as project name, description, installation instructions, usage guidelines, and more. Based on the provided input, it generates a well-structured README.md file to   help developers document their projects quickly and easily.
 
   ## Usage
-  test
-
-  ## Credits
-  undefined
+  (https://app.screencastify.com/v2/manage/videos/AZhkKypMAnijnGNXBMab)
 
   ## License
   MIT
 
-  ## Features
-  test
-
-  ## Contributions
-  test
-
-  ## Test 
-  test
 
